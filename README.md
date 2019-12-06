@@ -2,8 +2,9 @@
 Reconstruct Gene Regulatory Networks from transcriptomics and epigenetics data and predict instructive factors of cellular conversions.
 
 ## Required software
-  - RefBool (https://github.com/saschajung/RefBool)
   - Prism Model checker (https://www.prismmodelchecker.org/)
+  - bedtools (https://bedtools.readthedocs.io/en/latest/)
+  - Matlab 2017 or newer
   - R v3.6 or greater
   - OSX or Unix environment
 
