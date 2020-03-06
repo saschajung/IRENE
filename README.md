@@ -2,11 +2,11 @@
 Reconstruct Gene Regulatory Networks from transcriptomics and epigenetics data and predict instructive factors of cellular conversions.
 
 ## Required software
-  - Prism Model checker (https://www.prismmodelchecker.org/)
-  - bedtools (https://bedtools.readthedocs.io/en/latest/)
+  - Prism Model checker v4.4 or greater (https://www.prismmodelchecker.org/)
+  - bedtools v2.22.1 (https://bedtools.readthedocs.io/en/latest/)
   - Matlab 2017 or newer
   - R v3.6 or greater
-  - OSX or Unix environment
+  - OSX or Unix environment to run shell scripts
 
 ## Example usage
 
