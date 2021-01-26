@@ -8,6 +8,9 @@ Reconstruct Gene Regulatory Networks from transcriptomics and epigenetics data a
   - R v3.6 or greater
   - OSX or Unix environment to run shell scripts
 
+### Installation time
+Installation of the required software typically only takes minutes to seconds. However, if Matlab is not installed, a few hours are needed for installing all the required software.
+
 ## Example usage
 
 Required scripts and input files to reproduce the Human mammary epithelial cells (MammaryEC) example from the manuscript.
@@ -203,7 +206,11 @@ PerturbCluster_Rowwise.R
 	# output_file(s)
 	
 	FinalVals_4_*.RData
-  
+#################################################################
+### Example runtime ###
+#################################################################
+Running the complete workflow for the provided dataset takes between 30 minutes to 1 hour on a normal desktop PC/Mac depending on the available amount of RAM.
+
   ## License
   No license has been specified on purpose to protect this work until the corresponding manuscript is published. At the time of publication, a license will be added.
 
